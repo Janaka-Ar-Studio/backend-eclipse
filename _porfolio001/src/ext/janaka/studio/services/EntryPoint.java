@@ -5,7 +5,7 @@ public class EntryPoint {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		System.out.println("Welcome to JANAKA STUDIO!!");
+		System.out.println("Welcome to JANAKA STUDIO Again Welcome!!");
 	}
 
 }
